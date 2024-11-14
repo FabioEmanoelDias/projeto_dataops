@@ -69,7 +69,7 @@ O projeto será pontuado de acoerdo com as metas alcançadas no desenvolvimento:
  - Elaborou a visualização dos dados com o Streamlit: 0,0 a 1,0 pontos
  - Publicou o projeto na nuvem: 0,0 a 1,0 pontos
  - Estruturou o projeto adequadamente em funções: 0,0 a 1,0 pontos
- - Gerou a documentação do projeto com o Pdoc e publicou no GitHub Pages: 0,0 a 1,0 pontos
+ - Gerou a documentação do projeto com o Pdoc e deixou na pastas docs do repositório: 0,0 a 1,0 pontos
 
 7) **Demais observações**
 
