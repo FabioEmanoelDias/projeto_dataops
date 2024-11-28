@@ -5,7 +5,7 @@ Abaixo estão as orientações para elaboração do projeto da disciplina de Dat
 
 1) **Formação de equipes**
 
-- Equipes de 3 a 4 pessoas.
+- Equipes de 3 a 5 pessoas.
 - É recomendado a formação de equipes que todos posssa contribuir positivamente no projeto com os diferentes conhecimentos.
 - Deve ser criado um repositório GitHub (preferencialmente privado, inclunido o professor como membro da equipe para visualização) no qual todos os membros do projeto devem atuar como colaboradores.
 - Todos os membros da equipe deverão contribuir com o projeto no GitHub de acordo com as tarefas planejadas no Plano de Trabalho.
